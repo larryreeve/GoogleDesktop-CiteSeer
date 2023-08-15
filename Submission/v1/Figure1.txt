@@ -1,0 +1,30 @@
+<record>
+    <header>
+        <identifier>oai:CiteSeerPSU:1</identifier>
+        <datestamp>1993-08-11</datestamp>
+        <setSpec>CiteSeerPSUset</setSpec>
+    </header>
+    <metadata>
+        <oai_citeseer:oai_citeseer 
+		xmlns:oai_citeseer="http://copper.ist.psu.edu/oai/oai_citeseer/" 
+		xmlns:dc ="http://purl.org/dc/elements/1.1/" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:schemaLocation="http://copper.ist.psu.edu/oai/oai_citeseer/ http://copper.ist.psu.edu/oai/oai_citeseer.xsd">
+            <dc:title>36 Problems for Semantic Interpretation</dc:title>
+            <oai_citeseer:author name="Gabriele Scheler">
+                <address>80290 Munchen , Germany</address>
+                <affiliation>Institut fur Informatik; Technische Universitat Munchen</affiliation>
+            </oai_citeseer:author>
+            <dc:subject>Gabriele Scheler 36 Problems for Semantic Interpretation</dc:subject>
+            <dc:description>This paper presents…</dc:description>
+            <dc:contributor>The Pennsylvania State University CiteSeer Archives</dc:contributor>
+            <dc:publisher>unknown</dc:publisher>
+            <dc:date>1993-08-11</dc:date>
+            <dc:format>ps</dc:format>            
+            <dc:identifier>http://citeseer.ist.psu.edu/1.html</dc:identifier>
+            <dc:source>ftp://flop.informatik.tu-muenchen.de/pub/fki/fki-179-93.ps.gz</dc:source>
+            <dc:language>en</dc:language>
+            <dc:rights>unrestricted</dc:rights>
+        </oai_citeseer:oai_citeseer>
+    </metadata>
+</record>
